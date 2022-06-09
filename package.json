@@ -19,6 +19,8 @@
     "babel-preset-vue2": "^1.0.1",
     "core-js": "^3.8.3",
     "element-ui": "^2.4.5",
+    "net": "^1.0.2",
+    "net-socket": "^1.1.0",
     "usb": "^2.4.2",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1"
