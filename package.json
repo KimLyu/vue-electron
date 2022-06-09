@@ -15,8 +15,11 @@
   "dependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.2.1",
     "@vue/babel-preset-jsx": "^1.2.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-vue2": "^1.0.1",
     "core-js": "^3.8.3",
     "element-ui": "^2.4.5",
+    "usb": "^2.4.2",
     "vue": "^2.6.14",
     "vue-router": "^3.5.1"
   },
